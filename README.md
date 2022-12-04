@@ -4,7 +4,11 @@
 
 @[**ilovexjp**](https://github.com/ilovexjp/) 大神团队的伪造健康码备份项目。（该账户不是作者本人）
 
-作者的新仓库：https://codeberg.org/ilovexjp/health-code-simulator/
+☞作者的新仓库：https://codeberg.org/ilovexjp/health-code-simulator/
+
+>> ☞上次更新：2022-11-29(17b87f59)
+
+> ilovexjp/health-code-simulator: 基于 Web 的健康码模拟 - health-code-simulator - Codeberg.org
 
 我就知道可能会有这么一天，还好有备份。
 
